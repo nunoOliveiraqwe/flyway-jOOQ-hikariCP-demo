@@ -1,0 +1,2 @@
+INSERT INTO EXAMPLE_ENTITY(ID,NAME,DESCRIPTION) values ('9b3f1a72-08d8-4f30-b65e-d14870c144c6','An example entity', 'Just a description of an example entity');
+INSERT INTO EXAMPLE_ENTITY(ID,NAME,DESCRIPTION) values ('c548f3a1-9957-479f-af71-c05dd68f4c0b','An example entity', 'Just a description of an example entity');
